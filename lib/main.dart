@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
                 radius: 80,
                 backgroundColor: Colors.green,
                 backgroundImage: AssetImage('images/maungohn.jpg'),
-              ),
+              ),//circle my image
               
               Text(
                 'Handshake',
